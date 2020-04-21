@@ -1,0 +1,18 @@
+﻿  RayTracing.cpp
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(24): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(109): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(110): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(111): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  RayTracing.vcxproj -> E:\TG\Homework\RuiWang\Ray_Tracing\RT\RayTracing\x64\Debug\RayTracing.exe

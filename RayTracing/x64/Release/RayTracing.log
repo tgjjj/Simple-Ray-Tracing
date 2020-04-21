@@ -1,0 +1,38 @@
+﻿  RayTracing.cpp
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(61): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(62): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(63): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(80): warning C4244: “初始化”: 从“time_t”转换到“unsigned int”，可能丢失数据
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(251): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(252): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+e:\tg\homework\ruiwang\ray_tracing\rt\raytracing\raytracing\raytracing.cpp(253): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=uchar
+          ]
+  正在生成代码
+  208 of 2405 functions ( 8.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    43 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  RayTracing.vcxproj -> E:\TG\Homework\RuiWang\Ray_Tracing\RT\RayTracing\x64\Release\RayTracing.exe
